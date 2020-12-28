@@ -1,0 +1,5 @@
+*.mp4
+.idea
+__pycache__
+det
+yolov3.weights
